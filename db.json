@@ -1,0 +1,31 @@
+{
+  "productList": [
+    {
+      "productName": "iPhone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 1500,
+      "comment": "Brand new iPhone 14!",
+      "date": "2023-01-10T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 5,
+      "comment": "A shiny red apple.",
+      "date": "2023-01-10T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Samsung 85\" TV",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 2500,
+      "comment": "Brand new 85\" TV",
+      "date": "2023-01-10T05:00:00.000Z",
+      "id": 3
+    }
+  ]
+}
